@@ -186,6 +186,7 @@ export enum CacheScope {
   EXTENSION = 'uiExtension',
   INTEGRATION = 'integration',
   COL_BUTTON = 'colButton',
+  PRODUCT_FEED = 'productFeed',
 }
 
 export enum CacheGetType {
